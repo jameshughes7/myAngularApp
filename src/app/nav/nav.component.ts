@@ -6,8 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./nav.component.scss']
 })
 export class NavComponent implements OnInit {
-  appTitle = 'myapp';
-
+  appTitle = 'SA Dragon';
   constructor() { }
 
   ngOnInit() {
